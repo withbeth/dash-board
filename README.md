@@ -35,7 +35,7 @@
 |NoSQL | | | 
 |DB| | | 
 |Modern Java In Action | | | 
-|Effective Java| | | 
+|Effective Java| |https://github.com/withbeth/effective-java| 
 |Object| | | 
 |JPA| | | 
 |Http deepdive| | | 
