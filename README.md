@@ -34,10 +34,14 @@
 |병렬프로그래밍| | | 
 |NoSQL | | | 
 |DB| | | 
+|테스트 주도 개발로 배우는 객체 지향 설계와 실천| | |
+|Clean Code| | |
+|Clean Artchitecture| | |
 |Modern Java In Action | | | 
+|네이버를 만든 기술 - 자바| | | 
 |Effective Java| |https://github.com/withbeth/effective-java| 
 |Object| | | 
-|JPA| | | 
+|JPA|22/11-22/22|https://github.com/withbeth/jpa-study| 
 |Http deepdive| | | 
 |Network deepdive| | | 
 |OS deepdive| | | 
